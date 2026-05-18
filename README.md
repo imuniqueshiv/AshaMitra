@@ -17,7 +17,7 @@ AshaMitra serves as an intelligent digital assistant tailored for healthcare wor
 * **Frontend:** [e.g., HTML/CSS/JavaScript, React, or EJS]
 * **Backend:** [e.g., Node.js with Express, or Python/Django]
 * **Database:** [e.g., MongoDB, PostgreSQL]
-* **AI/ML Models:** [e.g., Python, TensorFlow/PyTorch, OpenAI API]
+* **AI/ML Models:** [e.g., Python, TensorFlow/PyTorch, Ollama]
 
 ## ⚙️ Installation & Setup
 
